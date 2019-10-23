@@ -1,6 +1,5 @@
 //Pendo Scripts
 
-<script>
 (function(apiKey){
     (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=[];
     v=['initialize','identify','updateOptions','pageLoad'];for(w=0,x=v.length;w<x;++w)(function(m){
@@ -35,7 +34,6 @@
             }
         });
 })('b4a82775-6b12-472a-4472-61e04545c1cf');
-</script>
 
 
 //EU Pendo Install
